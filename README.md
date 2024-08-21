@@ -7,8 +7,13 @@ Functionalities: will be a VR game / experience that is aimed to immerse and edu
 
 Requirements: Updated unity, a pc, a VR headset.
 
-Timeline: We will follow tutorials and guides as time permits. We will not spend much time outside of following these guides  so our timeline is dependent on our ability to execute.
+Timeline: We will follow tutorials and guides as time permits. We will not spend much time outside of following these guides so our timeline is dependent on our ability to execute them.
 
-Research:
+Research: We already know the tutorial we want to follow. It includes, movement, physics, UI, scenery, etc...
+
+CURRENT PROGRESS (all research activities, including sources, findings, and decisions made throughout the project.)
+1. -
+
+
 
 
