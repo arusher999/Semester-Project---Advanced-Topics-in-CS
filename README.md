@@ -12,7 +12,8 @@ Timeline: We will follow tutorials and guides as time permits. We will not spend
 Research: We already know the tutorial we want to follow. It includes, movement, physics, UI, scenery, etc...
 
 CURRENT PROGRESS (all research activities, including sources, findings, and decisions made throughout the project.)
-1. -
+
+8/22/24 - Today we began our project and configured the Unity Hub codespace and updated some drivers in the Meta Quest app. We will next begin the actual coding of the project through Unity.
 
 
 
