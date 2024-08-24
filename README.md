@@ -15,6 +15,6 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 
 8/22/24 - Today we began our project and configured the Unity Hub codespace and updated some drivers in the Meta Quest app. We will next begin the actual coding of the project through Unity.
 
-
+8/23/24 - Today we successfully connected the VR headset to Unity, linked hand models to the controllers, and gave the hand models animations.
 
 
