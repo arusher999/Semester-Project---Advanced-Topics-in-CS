@@ -7,14 +7,43 @@ Functionalities: will be a VR game / experience that is aimed to immerse and edu
 
 Requirements: Updated unity, a pc, a VR headset.
 
-Timeline: We will follow tutorials and guides as time permits. We will not spend much time outside of following these guides so our timeline is dependent on our ability to execute them.
+Timeline: We will follow tutorials and guides as time permits. We will not spend much time outside of following these guides so our timeline is dependent on our ability to execute them. Below is a list of the checkpoints for progress.
+
+__________________________________________________________________________________________________________________________________________________________________________
+
+Part 01 - VR Setup and Hand Presence ✅
+
+Part 02 - Building the Environment 
+
+Part 03 - Grab and Throw
+
+Part 04 - Snap Grab and Use 
+
+Part 05 - Continuous Movement and Teleportation 
+
+Part 06 - Button, Door and Socket Interactor
+
+Part 07 - Climbing, Wheel and Lever
+
+Part 08 - Narrative Story
+
+Part 09 - Start Menu 
+
+Part 10 - Sound Effect 
+
+Part 11 - Optimization and Publication 
+
+__________________________________________________________________________________________________________________________________________________________________________
 
 Research: We already know the tutorial we want to follow. It includes, movement, physics, UI, scenery, etc...
 
+
+
 CURRENT PROGRESS (all research activities, including sources, findings, and decisions made throughout the project.)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 8/22/24 - Today we began our project and configured the Unity Hub codespace and updated some drivers in the Meta Quest app. We will next begin the actual coding of the project through Unity.
 
 8/23/24 - Today we successfully connected the VR headset to Unity, linked hand models to the controllers, and gave the hand models animations.
 
-
+8/26/24 - Today we began work on Part 02 and successully rendered a basic environment, and work on part 05 was also started with movement on the left joystick working successfully. We still need to work on both but progress is continuing to be made.
