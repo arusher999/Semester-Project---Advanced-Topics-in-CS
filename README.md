@@ -50,3 +50,5 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 
 8/27/24 - Today we focused on teleportation and movement work, and got teleportation with ray hands working successfully. Not quite done yet, but still making more progress. 
 
+8/28/24 - Today we worked on grabbing mechanics, and got further in our progress with locomotion via teleportation
+
