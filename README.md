@@ -15,7 +15,7 @@ Part 01 - VR Setup and Hand Presence ✅
 
 Part 02 - Building the Environment 
 
-Part 03 - Grab and Throw
+Part 03 - Grab and Throw  ✅
 
 Part 04 - Snap Grab and Use 
 
@@ -52,3 +52,4 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 
 8/28/24 - Today we worked on grabbing mechanics, and got further in our progress with locomotion via teleportation
 
+8/29/24 - Today we successfully got grab working! the physics of throwing and objects are still in progress.
