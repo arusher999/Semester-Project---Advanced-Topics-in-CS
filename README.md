@@ -53,3 +53,5 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 8/28/24 - Today we worked on grabbing mechanics, and got further in our progress with locomotion via teleportation
 
 8/29/24 - Today we successfully got grab working! the physics of throwing and objects are still in progress.
+
+8/30/24 - today we had some troubles getting everthing started so we didn't have as much time to work on things. We managed to make a garbage can and trash for the game.
