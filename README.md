@@ -9,6 +9,8 @@ Requirements: Updated unity, a pc, a VR headset.
 
 Timeline: We will follow tutorials and guides as time permits. We will not spend much time outside of following these guides so our timeline is dependent on our ability to execute them. Below is a list of the checkpoints for progress.
 
+VISION: we envision a interactive game that will immerse the player into a polluted world / environment and is set to help it out. For example, you load into the world and a distressed animal explains that their habitat is being destroyed by pollution. The player would then go around the map we created picking up and throwing out trash. We will implement more game like mechanics to make this more enjoyable and immersive as well. for example, a timer that increases when trash in thrown away (if timer runs out before all trash is thrown away you lose).
+
 __________________________________________________________________________________________________________________________________________________________________________
 
 Part 01 - VR Setup and Hand Presence ✅
@@ -55,3 +57,5 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 8/29/24 - Today we successfully got grab working! the physics of throwing and objects are still in progress.
 
 8/30/24 - today we had some troubles getting everthing started so we didn't have as much time to work on things. We managed to make a garbage can and trash for the game.
+
+9/2/2024 - today we finished trash can functionality, now working on making the hand invisible when it grabs an object.
