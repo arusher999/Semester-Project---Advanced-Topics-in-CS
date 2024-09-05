@@ -15,13 +15,13 @@ ________________________________________________________________________________
 
 Part 01 - VR Setup and Hand Presence ✅
 
-Part 02 - Building the Environment 
+Part 02 - Building the Environment 🛠️ - IN PROGRESS
 
 Part 03 - Grab and Throw  ✅
 
 Part 04 - Snap Grab and Use 
 
-Part 05 - Continuous Movement and Teleportation 
+Part 05 - Continuous Movement and Teleportation ✅ - MOVEMENT IS COMPLETE, TELEPORT IS NOT NEEDED AND THEREFORE DISABLED FOR NOW
 
 Part 06 - Button, Door and Socket Interactor
 
@@ -59,3 +59,7 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 8/30/24 - today we had some troubles getting everthing started so we didn't have as much time to work on things. We managed to make a garbage can and trash for the game.
 
 9/2/2024 - today we finished trash can functionality, now working on making the hand invisible when it grabs an object.
+
+9/3/2024 - today we finished grab functionality by making the hands turn invisible when holding objects for further immersiveness - video 3 complete. Began detailing the environment as well.
+
+
