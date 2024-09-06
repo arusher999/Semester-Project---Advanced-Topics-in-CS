@@ -62,4 +62,7 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 
 9/3/2024 - today we finished grab functionality by making the hands turn invisible when holding objects for further immersiveness - video 3 complete. Began detailing the environment as well.
 
+9/5/2024 - worked on the environment but had a couple hitches with the texture rendering, environment needs more work.
+
+9/6/2024 - Completed and got over the environment hitch - looks quite pretty now. Will continue work on environment and also move on to interactables within the environment soon.
 
