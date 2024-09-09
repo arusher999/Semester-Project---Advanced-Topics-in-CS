@@ -66,6 +66,8 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 
 9/6/2024 - Completed and got over the environment hitch - looks quite pretty now. Will continue work on environment and also move on to interactables within the environment soon.
 
+9/9/2024 
+
 CURRENT PROGRESS (all research activities, including sources, findings, and decisions made throughout the project.)
 
 
