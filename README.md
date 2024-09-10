@@ -13,6 +13,41 @@ VISION: we envision a interactive game that will immerse the player into a pollu
 
 __________________________________________________________________________________________________________________________________________________________________________
 
+## Mentorship Connection Questions ##
+
+What are your specific project goals?
+- We want to create some sort of environmental cleanup game using the Meta Quest Pro and Unity.
+  
+What kind of project are you working on (software, hardware, VR/AR)?
+- Using VR.
+
+What technologies or tools are you using or learning?
+- We are learning how to code in Unity and how to greate a full VR environment, as well as writing scripts alongside the game.
+  
+Which programming languages, frameworks, or hardware platforms do you need support with?
+- We don't really need any support currently but we're using Unity on PC and coding using C++ to build scripts.
+  
+What challenges have you encountered?
+- We have gotten stuck a couple of times with hand movement and environmental rendering.
+  
+Are you facing technical challenges, design issues, or project management difficulties?
+- None currently.
+  
+What type of mentorship would be most helpful?
+- Someone who knows a thing or two about VR game coding and creation, as well as Unity's software.
+  
+Do you want advice on technical skills, career guidance, or project management?
+-Project possibly.
+
+Have you considered your post-high school plans?
+-Yes.
+
+Are you looking for a mentor who can help with future internships, college applications, or career choices?
+No.
+__________________________________________________________________________________________________________________________________________________________________________
+
+
+
 Part 01 - VR Setup and Hand Presence ✅
 
 Part 02 - Building the Environment ✅
