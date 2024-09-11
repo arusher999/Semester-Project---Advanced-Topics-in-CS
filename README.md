@@ -46,7 +46,7 @@ Are you looking for a mentor who can help with future internships, college appli
 No.
 __________________________________________________________________________________________________________________________________________________________________________
 
-
+🛠️ - IN PROGRESS
 
 Part 01 - VR Setup and Hand Presence ✅
 
@@ -54,9 +54,9 @@ Part 02 - Building the Environment ✅
 
 Part 03 - Grab and Throw  ✅
 
-Part 04 - Snap Grab and Use 🛠️ - IN PROGRESS
+Part 04 - Snap Grab and Use ✅
 
-Part 05 - Continuous Movement and Teleportation ✅ - MOVEMENT IS COMPLETE, TELEPORT IS NOT NEEDED AND THEREFORE DISABLED FOR NOW
+Part 05 - Continuous Movement and Teleportation ✅ 
 
 Part 06 - Button, Door and Socket Interactor (may be unnecessary)
 
@@ -102,6 +102,8 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 9/6/2024 - Completed and got over the environment hitch - looks quite pretty now. Will continue work on environment and also move on to interactables within the environment soon.
 
 9/9/2024 - removed trees from mountains (looks more natural this way) started working on snap grab and use.
+
+9/10/2024 - Finished and polished teleportation and snap grab and use.
 
 CURRENT PROGRESS (all research activities, including sources, findings, and decisions made throughout the project.)
 
