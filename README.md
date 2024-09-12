@@ -105,6 +105,10 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 
 9/10/2024 - Finished and polished teleportation and snap grab and use.
 
+9/11/2024 - Completed some project research through beatsaber. Highly intense research was completed.
+
+9/12/2024 - Worked on improving the environment's terrain to make it more realistic, and removed some of the more mountainous areas.
+
 CURRENT PROGRESS (all research activities, including sources, findings, and decisions made throughout the project.)
 
 
