@@ -111,6 +111,8 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 
 9/13/2024 - Worked on road creation in the environment - looking to eventually create a town/city.
 
+9/16/2024 - Finished creating the roads, now working on bulding placement and making the town look alive.
+
 CURRENT PROGRESS (all research activities, including sources, findings, and decisions made throughout the project.)
 
 
