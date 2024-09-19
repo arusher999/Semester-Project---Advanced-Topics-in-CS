@@ -77,7 +77,7 @@ Research: We already know the tutorial we want to follow. It includes, movement,
 
 
 CURRENT PROGRESS (all research activities, including sources, findings, and decisions made throughout the project.)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________________________________________________________________________________
 
 8/22/24 - Today we began our project and configured the Unity Hub codespace and updated some drivers in the Meta Quest app. We will next begin the actual coding of the project through Unity.
 
