@@ -83,7 +83,7 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 
 8/23/24 - Today we successfully connected the VR headset to Unity, linked hand models to the controllers, and gave the hand models animations.
 
-8/26/24 - Today we began work on Part 02 and successully rendered a basic environment, and work on part 05 was also started with movement on the left joystick working successfully. We still              need to work on both but progress is continuing to be made.
+8/26/24 - Today we began work on Part 02 and successully rendered a basic environment, and work on part 05 was also started with movement on the left joystick working successfully. We still need to work on both but progress is continuing to be made.
 
 8/27/24 - Today we focused on teleportation and movement work, and got teleportation with ray hands working successfully. Not quite done yet, but still making more progress. 
 
@@ -115,10 +115,7 @@ CURRENT PROGRESS (all research activities, including sources, findings, and deci
 
 9/17/2024 - Continues working on building placement and town design.
 
-CURRENT PROGRESS (all research activities, including sources, findings, and decisions made throughout the project.)
 
 
-## Unit 3: Project Creation and Documentation
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
