@@ -115,7 +115,9 @@ ________________________________________________________________________________
 
 9/17/2024 - Continues working on building placement and town design.
 
+9/18/2024 - Continues working on building placement and town design.
 
+9/20/2024 - worked on creating a park in the center of the town
 
 
 
