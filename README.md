@@ -123,6 +123,8 @@ ________________________________________________________________________________
 
 9/23/2024 - placed trees, flowers, more pathing, and overall continued to work on the park.
 
+9/25/2024 - working on optimization and environment further, in-game feedback being added. Making sure buildings are scaled appropriately and fixing rendering issues.
+
 ![0](https://github.com/user-attachments/assets/a3c93353-1635-41a3-880b-30c8006a7c54)
 
 ![0](https://github.com/user-attachments/assets/6ee7a2db-6004-41b3-9c61-873234d91a9d)
