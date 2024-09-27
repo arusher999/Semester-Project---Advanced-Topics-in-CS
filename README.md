@@ -117,13 +117,17 @@ ________________________________________________________________________________
 
 9/18/2024 - Continues working on building placement and town design.
 
-9/20/2024 - worked on creating a park in the center of the town
+9/20/2024 - worked on creating a park in the center of the town.
 
 9/21/2024 - continued working on the park, starting working on making a video for our mentour. Encountered an issue with game efficency / being laggy. will need to be further worked on.
 
 9/23/2024 - placed trees, flowers, more pathing, and overall continued to work on the park.
 
 9/25/2024 - working on optimization and environment further, in-game feedback being added. Making sure buildings are scaled appropriately and fixing rendering issues.
+
+9/26/2024 - worked on creating a recording of our environment to showcase our progress so far.
+
+9/27/2024 - added more buildings and worked on the environment.
 
 ![0](https://github.com/user-attachments/assets/a3c93353-1635-41a3-880b-30c8006a7c54)
 
