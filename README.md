@@ -127,7 +127,9 @@ ________________________________________________________________________________
 
 9/26/2024 - worked on creating a recording of our environment to showcase our progress so far.
 
-9/27/2024 - added more buildings and worked on the environment.
+9/27/2024 - added more buildings and worked on the environment. Mentor has been emailed, and we are awaiting a response.
+
+9/30/24 - Worked on completing the building rendering throughout the environment, and tweaked some performance settings.
 
 ![0](https://github.com/user-attachments/assets/a3c93353-1635-41a3-880b-30c8006a7c54)
 
