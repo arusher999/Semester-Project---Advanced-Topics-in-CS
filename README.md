@@ -79,57 +79,36 @@ Research: We already know the tutorial we want to follow. It includes, movement,
 CURRENT PROGRESS (all research activities, including sources, findings, and decisions made throughout the project.)
 __________________________________________________________________________________________________________________________________________________________________________
 
-8/22/24 - Today we began our project and configured the Unity Hub codespace and updated some drivers in the Meta Quest app. We will next begin the actual coding of the project through Unity.
-
-8/23/24 - Today we successfully connected the VR headset to Unity, linked hand models to the controllers, and gave the hand models animations.
-
-8/26/24 - Today we began work on Part 02 and successully rendered a basic environment, and work on part 05 was also started with movement on the left joystick working successfully. We still need to work on both but progress is continuing to be made.
-
-8/27/24 - Today we focused on teleportation and movement work, and got teleportation with ray hands working successfully. Not quite done yet, but still making more progress. 
-
-8/28/24 - Today we worked on grabbing mechanics, and got further in our progress with locomotion via teleportation
-
-8/29/24 - Today we successfully got grab working! the physics of throwing and objects are still in progress.
-
-8/30/24 - today we had some troubles getting everthing started so we didn't have as much time to work on things. We managed to make a garbage can and trash for the game.
-
-9/2/2024 - today we finished trash can functionality, now working on making the hand invisible when it grabs an object.
-
-9/3/2024 - today we finished grab functionality by making the hands turn invisible when holding objects for further immersiveness - video 3 complete. Began detailing the environment as well.
-
-9/5/2024 - worked on the environment but had a couple hitches with the texture rendering, environment needs more work.
-
-9/6/2024 - Completed and got over the environment hitch - looks quite pretty now. Will continue work on environment and also move on to interactables within the environment soon.
-
-9/9/2024 - removed trees from mountains (looks more natural this way) started working on snap grab and use.
-
-9/10/2024 - Finished and polished teleportation and snap grab and use.
-
-9/11/2024 - Completed some project research through beatsaber. Highly intense research was completed.
-
-9/12/2024 - Worked on improving the environment's terrain to make it more realistic, and removed some of the more mountainous areas.
-
-9/13/2024 - Worked on road creation in the environment - looking to eventually create a town/city.
-
-9/16/2024 - Finished creating the roads, now working on bulding placement and making the town look alive.
-
-9/17/2024 - Continues working on building placement and town design.
-
-9/18/2024 - Continues working on building placement and town design.
-
-9/20/2024 - worked on creating a park in the center of the town.
-
-9/21/2024 - continued working on the park, starting working on making a video for our mentour. Encountered an issue with game efficency / being laggy. will need to be further worked on.
-
-9/23/2024 - placed trees, flowers, more pathing, and overall continued to work on the park.
-
-9/25/2024 - working on optimization and environment further, in-game feedback being added. Making sure buildings are scaled appropriately and fixing rendering issues.
-
-9/26/2024 - worked on creating a recording of our environment to showcase our progress so far.
-
-9/27/2024 - added more buildings and worked on the environment. Mentor has been emailed, and we are awaiting a response.
-
-9/30/24 - Worked on completing the building rendering throughout the environment, and tweaked some performance settings.
+### Week of 8/22/24 - 8/29/24
+8/22/24: Began project, configured Unity Hub codespace, updated drivers in Meta Quest app.
+8/23/24: Successfully connected the VR headset to Unity, linked hand models to controllers, gave hand models animations.
+8/26/24: Rendered a basic environment, successfully implemented movement on the left joystick.
+8/27/24: Focused on teleportation and movement, got ray hand teleportation working.
+8/28/24: Worked on grabbing mechanics, progressed with locomotion via teleportation.
+8/29/24: Grab functionality successful, still working on throwing physics.
+### Week of 8/30/24 - 9/5/24
+8/30/24: Troubles with startup, but created a garbage can and trash for the game.
+9/2/24: Finished trash can functionality, worked on making hands invisible when grabbing objects.
+9/3/24: Completed grab functionality with hand invisibility, started environment detailing.
+9/5/24: Worked on environment, encountered texture rendering issues.
+### Week of 9/6/24 - 9/12/24
+9/6/24: Resolved environment rendering issues, continued environment improvements.
+9/9/24: Removed trees from mountains, worked on snap grab and use mechanics.
+9/10/24: Polished teleportation, snap grab, and use mechanics.
+9/11/24: Conducted research through Beatsaber.
+9/12/24: Improved terrain realism, reduced mountainous areas.
+### Week of 9/13/24 - 9/21/24
+9/13/24: Started road creation, planning to develop a town/city.
+9/16/24: Finished road creation, began working on building placement.
+9/17/24 - 9/18/24: Continued building placement and town design.
+9/20/24: Began creating a park in the center of town.
+9/21/24: Continued working on the park, started a video for the mentor, encountered performance lag.
+### Week of 9/23/24 - 9/30/24
+9/23/24: Placed trees, flowers, paths, and continued park work.
+9/25/24: Focused on optimization, scaling buildings appropriately, and fixing rendering issues.
+9/26/24: Created a recording to showcase the environment progress.
+9/27/24: Added more buildings and worked on environment detailing, mentor was emailed.
+9/30/24: Worked on building rendering and performance tweaking throughout the environment.
 
 ![0](https://github.com/user-attachments/assets/a3c93353-1635-41a3-880b-30c8006a7c54)
 
