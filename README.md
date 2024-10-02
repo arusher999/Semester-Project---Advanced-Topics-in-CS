@@ -109,7 +109,9 @@ ________________________________________________________________________________
 9/26/24: Created a recording to showcase the environment progress.
 9/27/24: Added more buildings and worked on environment detailing, mentor was emailed.
 9/30/24: Worked on building rendering and performance tweaking throughout the environment.
-
+### Week of 10/1/24 - 10/8/24
+10/1/24: Mentor email drafted and environmental rendering.
+10/2/24: Environmental rendering, fixed some performance issues as well.
 ![0](https://github.com/user-attachments/assets/a3c93353-1635-41a3-880b-30c8006a7c54)
 
 ![0](https://github.com/user-attachments/assets/6ee7a2db-6004-41b3-9c61-873234d91a9d)
