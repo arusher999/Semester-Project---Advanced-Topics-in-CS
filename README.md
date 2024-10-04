@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 Part 01 - VR Setup and Hand Presence ✅
 
-Part 02 - Building the Environment ✅
+Part 02 - Building the Environment ✅ - This is basically always a WIP as we continuously improve the environment.
 
 Part 03 - Grab and Throw  ✅
 
