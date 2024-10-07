@@ -115,6 +115,8 @@ ________________________________________________________________________________
 10/3/24: Changed environment from day to night, added clouds and fog effects, and added lighting for streetlamps.
 10/4/24: Added further cloud packages and improved the fog effect throughout the environment, working on how to make the buildings solid.
 ![0](https://github.com/user-attachments/assets/a3c93353-1635-41a3-880b-30c8006a7c54)
+### Week of 10/7/24 - 10/10/24
+10/7/24: Added more trees and edited park.
 
 ![0](https://github.com/user-attachments/assets/6ee7a2db-6004-41b3-9c61-873234d91a9d)
 
