@@ -112,6 +112,7 @@ ________________________________________________________________________________
 ### Town and Park Development - Week of 9/13/24 - 9/21/24
 9/13/24: Started road creation, planning to develop a town/city.
 9/16/24: Finished road creation, began working on building placement.
+![0](https://github.com/user-attachments/assets/6ee7a2db-6004-41b3-9c61-873234d91a9d)
 9/17/24 - 9/18/24: Continued building placement and town design.
 9/20/24: Began creating a park in the center of town.
 9/21/24: Continued working on the park, started a video for the mentor, encountered performance lag.
@@ -132,7 +133,6 @@ ________________________________________________________________________________
 10/7/24: Added more trees and edited park for more trees. Will begin work on storyline and narrative progression.
 ![unnamed](https://github.com/user-attachments/assets/c7393cf8-eb89-4d3b-851f-53d8df42a3f8)
 
-![0](https://github.com/user-attachments/assets/6ee7a2db-6004-41b3-9c61-873234d91a9d)
 
 
 video demo: https://streamable.com/wn27fx
