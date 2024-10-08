@@ -72,7 +72,10 @@ Part 11 - Optimization and Publication
 
 __________________________________________________________________________________________________________________________________________________________________________
 
+## Goals and Milestones ##
 Research: We already know the tutorial we want to follow. It includes, movement, physics, UI, scenery, etc...
+
+Adding a narrative story as well as a start menu is next on our list, and making the environment more interactive as a whole is what we plan on doing. Our environment is near completed, so crafting the storyline and narrative aspects of the game comes next.
 
 
 
