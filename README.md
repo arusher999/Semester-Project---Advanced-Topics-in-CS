@@ -115,6 +115,7 @@ ________________________________________________________________________________
 ![0](https://github.com/user-attachments/assets/6ee7a2db-6004-41b3-9c61-873234d91a9d)
 9/17/24 - 9/18/24: Continued building placement and town design.
 9/20/24: Began creating a park in the center of town.
+![0](https://github.com/user-attachments/assets/a3c93353-1635-41a3-880b-30c8006a7c54)
 9/21/24: Continued working on the park, started a video for the mentor, encountered performance lag.
 ### Optimization and Visual Enhancements - Week of 9/23/24 - 9/30/24
 9/23/24: Placed trees, flowers, paths, and continued park work.
@@ -128,7 +129,6 @@ ________________________________________________________________________________
 10/3/24: Changed environment from day to night, added clouds and fog effects, and added lighting for streetlamps.
 ![unnamed](https://github.com/user-attachments/assets/15dac38e-e612-49b2-8ea9-c9d0e23429e0)
 10/4/24: Added further cloud packages and improved the fog effect throughout the environment, working on how to make the buildings solid.
-![0](https://github.com/user-attachments/assets/a3c93353-1635-41a3-880b-30c8006a7c54)
 ### Week of 10/7/24 - 10/10/24
 10/7/24: Added more trees and edited park for more trees. Will begin work on storyline and narrative progression.
 ![unnamed](https://github.com/user-attachments/assets/c7393cf8-eb89-4d3b-851f-53d8df42a3f8)
