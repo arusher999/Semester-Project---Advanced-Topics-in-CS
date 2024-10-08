@@ -44,6 +44,10 @@ Have you considered your post-high school plans?
 
 Are you looking for a mentor who can help with future internships, college applications, or career choices?
 No.
+
+## Mentorship Analysis ##
+
+As of now, neither mentor has responded, and there
 __________________________________________________________________________________________________________________________________________________________________________
 
 🛠️ - IN PROGRESS
@@ -62,11 +66,11 @@ Part 06 - Button, Door and Socket Interactor (may be unnecessary)
 
 Part 07 - Climbing, Wheel and Lever (may be unnecessary)
 
-Part 08 - Narrative Story
+Part 08 - Narrative Story - NEXT GOAL
 
-Part 09 - Start Menu 
+Part 09 - Start Menu - FUTURE GOAL
 
-Part 10 - Sound Effect 
+Part 10 - Sound Effect - FUTURE GOAL
 
 Part 11 - Optimization and Publication 
 
@@ -75,51 +79,58 @@ ________________________________________________________________________________
 ## Goals and Milestones ##
 Research: We already know the tutorial we want to follow. It includes, movement, physics, UI, scenery, etc...
 
-Adding a narrative story as well as a start menu is next on our list, and making the environment more interactive as a whole is what we plan on doing. Our environment is near completed, so crafting the storyline and narrative aspects of the game comes next.
+Adding a narrative story as well as a start menu is next on our list, and making the environment more interactive as a whole is what we plan on doing. Our environment is near completed, so crafting the storyline and narrative aspects of the game comes next. Below is the order of things we plan to work on next:
+
+Narrative Storyline: We plan to develop a compelling narrative where players are guided by characters, such as distressed animals, to restore the environment. The storyline will serve as the core of the gameplay experience.
+Start Menu and UI: Creating a user-friendly start menu and interface to guide players through the game, including tutorials and options for adjusting settings.
+Sound Effects: Adding environmental soundscapes and sound effects for player interactions to enhance immersion.
+Final Optimization and Publication: After finalizing the environment and gameplay mechanics, we will focus on optimizing the experience for smoother performance and publishing the game.
 
 
 
-CURRENT PROGRESS (all research activities, including sources, findings, and decisions made throughout the project.)
+Project Timeline (all research activities, including sources, findings, and decisions made throughout the project.)
 __________________________________________________________________________________________________________________________________________________________________________
 
-### Week of 8/22/24 - 8/29/24
+### Initial Setup and Core Mechanics - Week of 8/22/24 - 8/29/24
 8/22/24: Began project, configured Unity Hub codespace, updated drivers in Meta Quest app.
 8/23/24: Successfully connected the VR headset to Unity, linked hand models to controllers, gave hand models animations.
 8/26/24: Rendered a basic environment, successfully implemented movement on the left joystick.
 8/27/24: Focused on teleportation and movement, got ray hand teleportation working.
 8/28/24: Worked on grabbing mechanics, progressed with locomotion via teleportation.
 8/29/24: Grab functionality successful, still working on throwing physics.
-### Week of 8/30/24 - 9/5/24
+### Environment Detailing and Mechanics - Week of 8/30/24 - 9/5/24
 8/30/24: Troubles with startup, but created a garbage can and trash for the game.
 9/2/24: Finished trash can functionality, worked on making hands invisible when grabbing objects.
 9/3/24: Completed grab functionality with hand invisibility, started environment detailing.
 9/5/24: Worked on environment, encountered texture rendering issues.
-### Week of 9/6/24 - 9/12/24
+### Advanced Environment Design - Week of 9/6/24 - 9/12/24
 9/6/24: Resolved environment rendering issues, continued environment improvements.
 9/9/24: Removed trees from mountains, worked on snap grab and use mechanics.
 9/10/24: Polished teleportation, snap grab, and use mechanics.
 9/11/24: Conducted research through Beatsaber.
 9/12/24: Improved terrain realism, reduced mountainous areas.
-### Week of 9/13/24 - 9/21/24
+### Town and Park Development - Week of 9/13/24 - 9/21/24
 9/13/24: Started road creation, planning to develop a town/city.
 9/16/24: Finished road creation, began working on building placement.
 9/17/24 - 9/18/24: Continued building placement and town design.
 9/20/24: Began creating a park in the center of town.
 9/21/24: Continued working on the park, started a video for the mentor, encountered performance lag.
-### Week of 9/23/24 - 9/30/24
+### Optimization and Visual Enhancements - Week of 9/23/24 - 9/30/24
 9/23/24: Placed trees, flowers, paths, and continued park work.
 9/25/24: Focused on optimization, scaling buildings appropriately, and fixing rendering issues.
 9/26/24: Created a recording to showcase the environment progress.
 9/27/24: Added more buildings and worked on environment detailing, mentor was emailed.
 9/30/24: Worked on building rendering and performance tweaking throughout the environment.
-### Week of 10/1/24 - 10/8/24
+### Lighting and Atmosphere Improvements - Week of 10/1/24 - 10/8/24
 10/1/24: Mentor email drafted and environmental rendering.
 10/2/24: Environmental rendering, fixed some performance issues as well.
 10/3/24: Changed environment from day to night, added clouds and fog effects, and added lighting for streetlamps.
+![unnamed](https://github.com/user-attachments/assets/15dac38e-e612-49b2-8ea9-c9d0e23429e0)
 10/4/24: Added further cloud packages and improved the fog effect throughout the environment, working on how to make the buildings solid.
 ![0](https://github.com/user-attachments/assets/a3c93353-1635-41a3-880b-30c8006a7c54)
 ### Week of 10/7/24 - 10/10/24
-10/7/24: Added more trees and edited park.
+10/7/24: Added more trees and edited park for more trees. Will begin work on storyline and narrative progression.
+![unnamed](https://github.com/user-attachments/assets/c7393cf8-eb89-4d3b-851f-53d8df42a3f8)
 
 ![0](https://github.com/user-attachments/assets/6ee7a2db-6004-41b3-9c61-873234d91a9d)
 
