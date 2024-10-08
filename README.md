@@ -132,7 +132,7 @@ ________________________________________________________________________________
 ### Week of 10/7/24 - 10/10/24
 10/7/24: Added more trees and edited park for more trees. Will begin work on storyline and narrative progression.
 ![unnamed](https://github.com/user-attachments/assets/c7393cf8-eb89-4d3b-851f-53d8df42a3f8)
-
+10/8/24: Began working on narrative prrogression of project and began creating the dialogue script.
 
 
 video demo: https://streamable.com/wn27fx
