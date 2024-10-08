@@ -47,7 +47,7 @@ No.
 
 ## Mentorship Analysis ##
 
-As of now, neither mentor has responded, and there
+As of now, neither mentor has responded. Therefore, no mentor analysis can be made. A draft of a follow up email is being crafted as you read.
 __________________________________________________________________________________________________________________________________________________________________________
 
 🛠️ - IN PROGRESS
