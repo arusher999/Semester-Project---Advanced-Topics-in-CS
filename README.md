@@ -133,6 +133,7 @@ ________________________________________________________________________________
 10/7/24: Added more trees and edited park for more trees. Will begin work on storyline and narrative progression.
 ![unnamed](https://github.com/user-attachments/assets/c7393cf8-eb89-4d3b-851f-53d8df42a3f8)
 10/8/24: Began working on narrative prrogression of project and began creating the dialogue script.
+10/9/24: brainstormed possible gameplay mechanics, changed the skybox to a sunset like scene, working on fixing teleportation onto all surfaces such as roads
 
 
 video demo: https://streamable.com/wn27fx
