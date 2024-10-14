@@ -134,6 +134,9 @@ ________________________________________________________________________________
 ![unnamed](https://github.com/user-attachments/assets/c7393cf8-eb89-4d3b-851f-53d8df42a3f8)
 10/8/24: Began working on narrative prrogression of project and began creating the dialogue script.
 10/9/24: brainstormed possible gameplay mechanics, changed the skybox to a sunset like scene, working on fixing teleportation onto all surfaces such as roads
+### Week of 10/14/24 - 10/19/24
+10/14/24: fixed teleportation so now the player can teleport on all roads across the map. incredibly time taking.
+![0](https://github.com/user-attachments/assets/cb19aaea-7c1f-4fc4-916c-b7f7b3ff61b7)
 
 
 video demo: https://streamable.com/wn27fx
