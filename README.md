@@ -135,7 +135,8 @@ ________________________________________________________________________________
 10/8/24: Began working on narrative prrogression of project and began creating the dialogue script.
 10/9/24: brainstormed possible gameplay mechanics, changed the skybox to a sunset like scene, working on fixing teleportation onto all surfaces such as roads
 ### Week of 10/14/24 - 10/19/24
-10/14/24: fixed teleportation so now the player can teleport on all roads across the map. incredibly time taking.
+10/14/24: fixing teleportation so now the player can teleport on all roads across the map. incredibly time taking.
+10/15/24: finished teleportation, working on finding tutorials for making car controller. also sent a follow-up to our mentors.
 ![0](https://github.com/user-attachments/assets/cb19aaea-7c1f-4fc4-916c-b7f7b3ff61b7)
 
 
