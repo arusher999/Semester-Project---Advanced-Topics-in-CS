@@ -138,8 +138,8 @@ ________________________________________________________________________________
 10/14/24: fixing teleportation so now the player can teleport on all roads across the map. incredibly time taking.
 10/15/24: finished teleportation, working on finding tutorials for making car controller. also sent a follow-up to our mentors.
 10/16/24: realigned our vision for gameplay. found a tutorial and prepped a new project (in unity) to start working in the car
-10/17/24: 
+10/17/24: began working on the car tutorial. imported scenery and need to work on steering mechanics.
 ![0](https://github.com/user-attachments/assets/cb19aaea-7c1f-4fc4-916c-b7f7b3ff61b7)
-
+![0](https://github.com/user-attachments/assets/ed95a008-801f-4fdb-8d5e-3f2192e774c3)
 
 video demo: https://streamable.com/wn27fx
