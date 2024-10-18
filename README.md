@@ -48,6 +48,14 @@ No.
 ## Mentorship Analysis ##
 
 As of now, neither mentor has responded. Therefore, no mentor analysis can be made. A draft of a follow up email is being crafted as you read.
+
+## Unit 8 Submission - Project MVP ##
+
+So right now, we basically have a full city that you can walk around, teleport, and explore. You can also throw around some interactables and have some fun with it as well. There's a functioning laser gun as well as a trash can. 
+
+Right now, we do not have a real "game", rather it's a technical demo/proof of concept that shows the possibilities that lie within the project. For the future, we do plan to work more on the game development/storyline, but for now it's a technical demo as a rough prototype. 
+
+For the future, we have a couple of ideas. The one that we are working on currently is building a functioning car in VR and implementing it in our city as a "Trash Man" type of game, where the player can drive around and collect trash throughout the city using his cool laser gun and clean up the entire city, fighting pollution and cool stuff like that. In the end of the day we want it to be environmentally related so we will crank out the specifics as time goes by. Project is a constant WIP and developing
 __________________________________________________________________________________________________________________________________________________________________________
 
 🛠️ - IN PROGRESS
