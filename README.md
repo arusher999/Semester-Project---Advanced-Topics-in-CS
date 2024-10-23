@@ -149,7 +149,9 @@ ________________________________________________________________________________
 10/17/24: began working on the car tutorial. imported scenery and need to work on steering mechanics.
 ![0](https://github.com/user-attachments/assets/cb19aaea-7c1f-4fc4-916c-b7f7b3ff61b7)
 ![0](https://github.com/user-attachments/assets/ed95a008-801f-4fdb-8d5e-3f2192e774c3)
+
 10/18/24: Switched strategies with the creation of the car, and will begin following a new video. It is quite long and this WILL TAKE A WHILE.
 10/21/24: began working on the video tutorial. downloaded assets and began working with controllers.
+10/22/24 - 10/23/24: Working on a way to integrate the car within Unity successfully. Cars are hard. Videos are mostly outdated. We are finding new options. For our MVP Project, it is very likely that we will not have a car within Unity, and we will have our town as a sort of demo.
 
 video demo: https://streamable.com/wn27fx
