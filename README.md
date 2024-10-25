@@ -153,5 +153,6 @@ ________________________________________________________________________________
 10/18/24: Switched strategies with the creation of the car, and will begin following a new video. It is quite long and this WILL TAKE A WHILE.
 10/21/24: began working on the video tutorial. downloaded assets and began working with controllers.
 10/22/24 - 10/23/24: Working on a way to integrate the car within Unity successfully. Cars are hard. Videos are mostly outdated. We are finding new options. For our MVP Project, it is very likely that we will not have a car within Unity, and we will have our town as a sort of demo.
+10/25/24: began working on a menu screen for the start of the game.
 
 video demo: https://streamable.com/wn27fx
