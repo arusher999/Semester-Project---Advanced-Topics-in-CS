@@ -155,4 +155,8 @@ ________________________________________________________________________________
 10/22/24 - 10/23/24: Working on a way to integrate the car within Unity successfully. Cars are hard. Videos are mostly outdated. We are finding new options. For our MVP Project, it is very likely that we will not have a car within Unity, and we will have our town as a sort of demo.
 10/25/24: began working on a menu screen for the start of the game.
 
+11/6: successfully got rid of all errors with the start menu
+11/7: integrated start menu into our actual game project.
+![unnamed](https://github.com/user-attachments/assets/5d2fe3a6-e42e-479b-aef1-702933078e56)
+
 video demo: https://streamable.com/wn27fx
