@@ -152,13 +152,16 @@ ________________________________________________________________________________
 ![0](https://github.com/user-attachments/assets/cb19aaea-7c1f-4fc4-916c-b7f7b3ff61b7)
 ![0](https://github.com/user-attachments/assets/ed95a008-801f-4fdb-8d5e-3f2192e774c3)
 
+### Week of 10/18/24 - 10/25/24
 10/18/24: Switched strategies with the creation of the car, and will begin following a new video. It is quite long and this WILL TAKE A WHILE.
 10/21/24: began working on the video tutorial. downloaded assets and began working with controllers.
 10/22/24 - 10/23/24: Working on a way to integrate the car within Unity successfully. Cars are hard. Videos are mostly outdated. We are finding new options. For our MVP Project, it is very likely that we will not have a car within Unity, and we will have our town as a sort of demo.
 10/25/24: began working on a menu screen for the start of the game.
 
+### Week of 11/6/24 - 11/8/24
 11/6: successfully got rid of all errors with the start menu
 11/7: integrated start menu into our actual game project.
+11/8: polished start screen menu, fully implemented. Updated drivers for quest link.
 ![unnamed](https://github.com/user-attachments/assets/5d2fe3a6-e42e-479b-aef1-702933078e56)
 
 video demo: https://streamable.com/wn27fx
