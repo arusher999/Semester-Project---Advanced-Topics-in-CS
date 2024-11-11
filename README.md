@@ -164,4 +164,7 @@ ________________________________________________________________________________
 11/8: polished start screen menu, fully implemented. Updated drivers for quest link.
 ![unnamed](https://github.com/user-attachments/assets/5d2fe3a6-e42e-479b-aef1-702933078e56)
 
+### Week of 11/11/24 - 11/16/24
+11/11: finished hand development and start scene 1, implemented ray interacter in start scene.
+
 video demo: https://streamable.com/wn27fx
