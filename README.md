@@ -164,7 +164,11 @@ ________________________________________________________________________________
 11/8: polished start screen menu, fully implemented. Updated drivers for quest link.
 ![unnamed](https://github.com/user-attachments/assets/5d2fe3a6-e42e-479b-aef1-702933078e56)
 
-### Week of 11/11/24 - 11/16/24
+### Week of 11/11/24 - 11/15/24
 11/11: finished hand development and start scene 1, implemented ray interacter in start scene.
+11/12: troubleshooting sound design, working on implementing a grab sound effect for objects
+11/13: Finalized the sound effects for grabbing objects.
+11/14: began working on ambient sound for the game. (background noises)
+11/15: Continued working on ambient sound (encountering some errors)
 
 video demo: https://streamable.com/wn27fx
