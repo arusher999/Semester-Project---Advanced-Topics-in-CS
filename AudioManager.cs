@@ -14,6 +14,7 @@ public class Sound
     public float pitch = 1;
     public bool loop = false;
     public AudioSource source;
+    public bool playOnAwake = false;
 
     public Sound()
     {
@@ -32,15 +33,8 @@ public class AudioManager : MonoBehaviour
 
     void Awake()
     {
-        if (instance == null)
-            instance = this;
-        else
-        {
-            Destroy(gameObject);
-            return;
-        }
-
-        DontDestroyOnLoad(gameObject);
+        
+        instance = this;
 
         foreach (Sound s in sounds)
         {
@@ -48,6 +42,9 @@ public class AudioManager : MonoBehaviour
                 s.source = gameObject.AddComponent<AudioSource>();
 
             s.source.clip = s.clip;
+            s.source.playOnAwake = s.playOnAwake;
+            if (s.playOnAwake)
+                s.source.Play();
 
             s.source.volume = s.volume;
             s.source.pitch = s.pitch;
