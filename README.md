@@ -171,4 +171,7 @@ ________________________________________________________________________________
 11/14: began working on ambient sound for the game. (background noises)
 11/15: Continued working on ambient sound (encountering some errors)
 
+### Week of 11/18/24 - 11/22/24
+11/18: Fixed sound errors.
+
 video demo: https://streamable.com/wn27fx
