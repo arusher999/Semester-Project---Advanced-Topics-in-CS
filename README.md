@@ -172,6 +172,8 @@ ________________________________________________________________________________
 11/15: Continued working on ambient sound (encountering some errors)
 
 ### Week of 11/18/24 - 11/22/24
-11/18: Fixed sound errors.
+11/18: Fixed sound errors. Got ambient sound working (wind in the background)
+11/19: Improved mesh collider for toast, fixed rigid body for multiple element
+11/20: started adding more trash into the game, fixed disable grabbing hand model.
 
 video demo: https://streamable.com/wn27fx
