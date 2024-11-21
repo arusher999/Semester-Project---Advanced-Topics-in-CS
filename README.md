@@ -175,5 +175,7 @@ ________________________________________________________________________________
 11/18: Fixed sound errors. Got ambient sound working (wind in the background)
 11/19: Improved mesh collider for toast, fixed rigid body for multiple element
 11/20: started adding more trash into the game, fixed disable grabbing hand model.
+11/21: Incorporating physics to the new trash objects, debugged weight and dragging models while holding
+![0](https://github.com/user-attachments/assets/0df300ce-36f3-4a52-8b29-0efb696ed645)
 
 video demo: https://streamable.com/wn27fx
