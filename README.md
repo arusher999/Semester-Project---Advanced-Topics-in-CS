@@ -96,6 +96,9 @@ Start Menu and UI: Creating a user-friendly start menu and interface to guide pl
 Sound Effects: Adding environmental soundscapes and sound effects for player interactions to enhance immersion.
 Final Optimization and Publication: After finalizing the environment and gameplay mechanics, we will focus on optimizing the experience for smoother performance and publishing the game.
 
+## Unit 13 Progress Update: ##
+
+
 
 
 Project Timeline (all research activities, including sources, findings, and decisions made throughout the project.)
@@ -175,7 +178,7 @@ ________________________________________________________________________________
 11/18: Fixed sound errors. Got ambient sound working (wind in the background)
 11/19: Improved mesh collider for toast, fixed rigid body for multiple element
 11/20: started adding more trash into the game, fixed disable grabbing hand model.
-11/21: Incorporating physics to the new trash objects, debugged weight and dragging models while holding
+11/21: Incorporating physics to the new trash objects, debugged weight and dragging models while holding.
 ![0](https://github.com/user-attachments/assets/0df300ce-36f3-4a52-8b29-0efb696ed645)
 
 video demo: https://streamable.com/wn27fx
