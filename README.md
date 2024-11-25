@@ -182,4 +182,6 @@ ________________________________________________________________________________
 11/22: Started creating further prefabs in the environment including multiple trash bags to begin building the actual game.
 ![0](https://github.com/user-attachments/assets/0df300ce-36f3-4a52-8b29-0efb696ed645)
 
+### Week of 11/25/24 - 11/26/24
+11/25: Fixed more sound errors and debugged.
 video demo: https://streamable.com/wn27fx
