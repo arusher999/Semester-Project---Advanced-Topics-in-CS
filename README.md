@@ -184,4 +184,5 @@ ________________________________________________________________________________
 
 ### Week of 11/25/24 - 11/26/24
 11/25: Fixed more sound errors and debugged.
+11/26: Sounds hve completeyl stopped working, so we worked on debugging further.
 video demo: https://streamable.com/wn27fx
