@@ -185,4 +185,13 @@ ________________________________________________________________________________
 ### Week of 11/25/24 - 11/26/24
 11/25: Fixed more sound errors and debugged.
 11/26: Sounds hve completeyl stopped working, so we worked on debugging further.
+
+### Week of 12/2/24 - 12/6/24
+12/2: began working on Ui interactable menu and timer for game component
+12/3 continued working on UI interactable menu, encountering errors.
+12/4 attempting to debug the UI interacable menu
+12/5 Still not working, there is a visable menu but its not interactable, debugging
+12/6 started to incorporate the timer, more bug fixing
+![0](https://github.com/user-attachments/assets/97332d66-c873-4d23-8c01-4ff3d0bdc3a1)
+
 video demo: https://streamable.com/wn27fx
