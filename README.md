@@ -195,4 +195,5 @@ ________________________________________________________________________________
 ![0](https://github.com/user-attachments/assets/97332d66-c873-4d23-8c01-4ff3d0bdc3a1)
 
 video demo: https://streamable.com/wn27fx
-https://www.youtube.com/watch?v=hC4ACASNtvs
+
+Project Showcase: https://www.youtube.com/watch?v=hC4ACASNtvs
