@@ -194,6 +194,13 @@ ________________________________________________________________________________
 12/6 started to incorporate the timer, more bug fixing
 ![0](https://github.com/user-attachments/assets/97332d66-c873-4d23-8c01-4ff3d0bdc3a1)
 
+### Week of 12/9/24 - 12/13/24
+12/9: Worked on timer synchronization issues and debugging.
+12/10: Fixed a bug with timer resetting and UI updates.
+12/11: Troubleshooted timer UI lag, started recording project video.
+12/12: Refined timer functionality, recorded more gameplay footage.
+12/13: Resolved timer glitches, finished basic project video editing.
+
 video demo: https://streamable.com/wn27fx
 
 Project Showcase: https://www.youtube.com/watch?v=hC4ACASNtvs
